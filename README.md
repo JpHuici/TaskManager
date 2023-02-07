@@ -3,7 +3,7 @@
 
 This app was created with Django, PostgreSQL and Bootstrap. 
 
-It´s hosted in render.com
+It´s hosted in [pythonanywhere.com](https://www.pythonanywhere.com/) --> Right now, it's disabled until future updates.
 
 
 ## Usage/Examples
